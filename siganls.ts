@@ -1,6 +1,6 @@
 import { signal } from "@preact/signals";
 
-export type Character = {
+export type CharacterType = {
   id: number;
   status: string;
   species: string;
